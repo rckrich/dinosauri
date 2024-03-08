@@ -211,6 +211,14 @@ a.amoradaSkin:hover{
   background-color: grey !important;
 }
 
+a.buttonRed{
+  background-color: red !important; 
+}
+
+a.buttonRed:hover{
+  background-color: firebrick !important;
+}
+
 .amoradaBlue{
   color: #273C4E !important; 
 }
