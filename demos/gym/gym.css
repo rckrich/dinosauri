@@ -3,8 +3,8 @@
 -----------------------------------------------------------------*/
 
 :root {
-	--cnvs-themecolor: #1E8C93;
-	--cnvs-themecolor-rgb: 30, 140, 147;
+	--cnvs-themecolor: #ff0000;
+	--cnvs-themecolor-rgb: 255, 0, 0;
 
 	--cnvs-body-font: 'Lato', sans-serif;
 	--cnvs-primary-font: 'Poppins', sans-serif;
