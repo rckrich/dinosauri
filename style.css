@@ -29772,7 +29772,7 @@ div#driver-popover-item .driver-popover-footer button {
     visibility: visible;
   }
   100% {
-    transform: translate3d(-145%, 0, 0);
+    transform: translate3d(-180%, 0, 0);
   }
 }
 @keyframes tickerAnimReverse {
