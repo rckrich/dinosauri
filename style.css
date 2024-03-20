@@ -29772,7 +29772,7 @@ div#driver-popover-item .driver-popover-footer button {
     visibility: visible;
   }
   100% {
-    transform: translate3d(-220%, 0, 0);
+    transform: translate3d(-200%, 0, 0);
   }
 }
 @keyframes tickerAnimReverse {
@@ -29785,7 +29785,7 @@ div#driver-popover-item .driver-popover-footer button {
   }
 }
 .ticker-wrap {
-  --cnvs-ticker-duration: 50s;
+  --cnvs-ticker-duration: 30s;
   --cnvs-ticker-gap: 2rem;
   position: relative;
   width: 100%;
